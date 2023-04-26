@@ -1,0 +1,4 @@
+outs:
+- md5: 58fe572f59bbdf5772395a3b7b72da27
+  size: 2132
+  path: svm_model.pkl
